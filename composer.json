@@ -1,0 +1,16 @@
+{
+  "name": "adele-php/composer-hello-world",
+  "description": "no desc",
+  "authors": [
+    {
+      "name": "Yufeng Ding"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Yf\\hello\\": "src/"
+    }
+  }
+}
